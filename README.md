@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M2dem
+- 👋 Hi, I’m @M2den
 - 👀 I’m interested in learning and teaching about TI
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on front-end projects
